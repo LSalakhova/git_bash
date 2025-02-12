@@ -1,0 +1,76 @@
+liaisan@Liaisans-MacBook-Pro bash_training % pwd
+/Users/liaisan/Desktop/bash_training
+liaisan@Liaisans-MacBook-Pro bash_training % mkdir test1
+liaisan@Liaisans-MacBook-Pro bash_training % cd test1
+liaisan@Liaisans-MacBook-Pro test1 % touch file1.txt file2.txt file3.txt
+liaisan@Liaisans-MacBook-Pro test1 % ls
+file1.txt       file2.txt       file3.txt
+liaisan@Liaisans-MacBook-Pro test1 % cd ..
+liaisan@Liaisans-MacBook-Pro bash_training % mkdir test2
+liaisan@Liaisans-MacBook-Pro bash_training % rmdir test2
+liaisan@Liaisans-MacBook-Pro bash_training % cd test1
+liaisan@Liaisans-MacBook-Pro test1 % rm file2.txt
+liaisan@Liaisans-MacBook-Pro test1 % cd ..
+liaisan@Liaisans-MacBook-Pro bash_training % mkdir test3 
+liaisan@Liaisans-MacBook-Pro bash_training % cd test3
+liaisan@Liaisans-MacBook-Pro test3 % touch file1.txt file2.txt
+liaisan@Liaisans-MacBook-Pro test3 % cd ..      
+liaisan@Liaisans-MacBook-Pro bash_training % rm -r test3 
+liaisan@Liaisans-MacBook-Pro bash_training % mkdir test4
+liaisan@Liaisans-MacBook-Pro bash_training % cd test1
+liaisan@Liaisans-MacBook-Pro test1 % mv file1.txt file3.txt /Users/liaisan/Desktop/bash_training/test4 
+liaisan@Liaisans-MacBook-Pro test1 % cd ..
+liaisan@Liaisans-MacBook-Pro bash_training % cd test4
+liaisan@Liaisans-MacBook-Pro test4 % echo line > file1.txt
+liaisan@Liaisans-MacBook-Pro test4 % echo line >> file1.txt
+liaisan@Liaisans-MacBook-Pro test4 % echo line >> file1.txt
+liaisan@Liaisans-MacBook-Pro test4 % cat file1.txt
+line
+line
+line
+liaisan@Liaisans-MacBook-Pro test4 % echo line > file3.txt 
+liaisan@Liaisans-MacBook-Pro test4 % echo line >> file3.txt
+liaisan@Liaisans-MacBook-Pro test4 % echo line >> file3.txt
+liaisan@Liaisans-MacBook-Pro test4 % cat file1.txt file3.txt
+line
+line
+line
+line
+line
+line
+liaisan@Liaisans-MacBook-Pro test4 % nano file1.txt
+ UW PICO 5.09                                       File: file1.txt                                          
+
+First line
+Second line
+Third line
+Fourth line
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help       ^O WriteOut       ^R Read File      ^Y Prev Pg        ^K Cut Text       ^C Cur Pos        
+^X Exit           ^J Justify        ^W Where is       ^V Next Pg        ^U UnCut Text     ^T To Spell       
+liaisan@Liaisans-MacBook-Pro test4 % cat file1.txt
+First line
+Second line
+Third line
+Fourth line
