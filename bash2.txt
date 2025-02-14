@@ -296,35 +296,6 @@ liaisan          56700   0.0  0.1 36034392  29076   ??  S    Mon08PM   0:08.60 /
 liaisan          56699   0.0  0.5 68103292 167876   ??  S    Mon08PM   9:13.85 /Applications/Google Chrome.ap
 liaisan          56698   0.0  1.0 69148040 349828   ??  S    Mon08PM  61:21.25 /Applications/Google Chrome.ap
 liaisan          56697   0.0  0.0 34261336   6356   ??  S    Mon08PM   0:10.11 /usr/libexec/SidecarRelay
-liaisan          56694   0.0  0.0 33754848   1896   ??  S    Mon08PM   0:00.02 /usr/libexec/spindump_agent
-liaisan          56693   0.0  0.0 67296164   2628   ??  S    Mon08PM   0:00.05 /Applications/Google Chrome.ap
-liaisan          56688   0.0  0.0 33834628   1724   ??  Ss   Mon08PM   0:00.05 /System/Library/Frameworks/Aud
-liaisan          56687   0.0  0.0 34031336   2864   ??  S    Mon08PM   0:00.95 /Library/Apple/System/Library/
-liaisan          56619   0.0  0.0 33867764   3096   ??  S    Mon08PM   0:00.04 /System/Library/Frameworks/Fam
-liaisan          56580   0.0  0.1 34033472  20568   ??  S    Mon08PM   0:03.69 /System/Library/PrivateFramewo
-liaisan          56596   0.0  0.0 34032604   9852   ??  S    Mon08PM   0:06.21 /System/Library/CoreServices/d
-liaisan          56590   0.0  0.0 34036580   8680   ??  S    Mon08PM   0:01.49 /System/Library/PrivateFramewo
-liaisan          56686   0.0  0.0 33998452   7284   ??  S    Mon08PM   0:02.22 /usr/libexec/gamecontrollerage
-liaisan          56684   0.0  0.1 36403628  19636   ??  Ss   Mon08PM   0:02.60 /System/Library/PrivateFramewo
-liaisan          56680   0.0  0.0 34135860  12768   ??  S    Mon08PM   0:04.12 /usr/libexec/swcd
-liaisan          56679   0.0  0.0 34022112   6944   ??  S    Mon08PM   0:00.04 /System/Library/PrivateFramewo
-liaisan          56678   0.0  0.0 34033664  13444   ??  S    Mon08PM   0:00.35 /System/Library/PrivateFramewo
-liaisan          56677   0.0  0.0 34041812  16364   ??  S    Mon08PM   0:00.94 /System/Library/PrivateFramewo
-liaisan          56676   0.0  0.0 34031736  11628   ??  S    Mon08PM   0:00.19 /System/Library/PrivateFramewo
-liaisan          56675   0.0  0.0 34048924  14468   ??  S    Mon08PM   0:00.97 /usr/libexec/adprivacyd
-liaisan          56674   0.0  0.0 34022888   8504   ??  S    Mon08PM   0:00.09 /System/Library/PrivateFramewo
-liaisan          56672   0.0  0.0 33974044   6096   ??  S    Mon08PM   0:00.06 /usr/libexec/feedbackd
-liaisan          56671   0.0  0.1 34033320  17484   ??  S    Mon08PM   0:09.02 /System/Library/PrivateFramewo
-liaisan          56670   0.0  0.0 34031344   9000   ??  S    Mon08PM   0:00.22 /System/Library/PrivateFramewo
-liaisan          56565   0.0  0.0 34046492  12348   ??  S    Mon08PM   0:00.93 /usr/libexec/appleaccountd
-liaisan          56660   0.0  0.1 34039988  20212   ??  S    Mon08PM   1:16.58 /System/Library/CoreServices/U
-liaisan          56650   0.0  0.0 34188936   3128   ??  S    Mon08PM   0:00.02 SafeEjectGPUAgent
-liaisan          56643   0.0  0.3 36735104  87032   ??  S    Mon08PM   0:55.45 /Applications/Utilities/Adobe 
-liaisan          56642   0.0  0.0 34038516   9840   ??  S    Mon08PM   0:00.51 /System/Library/PrivateFramewo
-liaisan          56641   0.0  0.1 34048484  22156   ??  S    Mon08PM   0:01.52 /System/Library/PrivateFramewo
-liaisan          56640   0.0  0.0 33900140   5672   ??  S    Mon08PM   0:00.18 /System/Library/CoreServices/p
-liaisan          56639   0.0  0.1 34755888  19000   ??  S    Mon08PM   0:08.00 /System/Library/PrivateFramewo
-liaisan          56638   0.0  0.1 34133996  37428   ??  S    Mon08PM   0:07.71 /usr/libexec/linkd
 etc.
 
 
