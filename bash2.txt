@@ -298,7 +298,6 @@ liaisan          56698   0.0  1.0 69148040 349828   ??  S    Mon08PM  61:21.25 /
 liaisan          56697   0.0  0.0 34261336   6356   ??  S    Mon08PM   0:10.11 /usr/libexec/SidecarRelay
 etc.
 
-
 liaisan@Liaisans-MacBook-Pro test3 % kill 666
 kill: kill 666 failed: no such process
 
