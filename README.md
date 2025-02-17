@@ -1,4 +1,4 @@
-# 📌 Git & Bash
+# 📌 Bash
 
 Here I'd like to share some of the examples of sending basic commands with bash that i've used:
 
